@@ -1,0 +1,9 @@
+torch>=2.0.0
+numpy>=1.21.0
+scipy>=1.7.0
+matplotlib>=3.4.0
+tqdm>=4.62.0
+jupyter>=1.0.0
+ipython>=7.0.0
+torchfunction
+zytlib 
